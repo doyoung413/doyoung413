@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doyoung413
-- 👀 I’m interested in game develop.
+- 👀 I’m interested in Front-end development (such as game, android/ios application etc).
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on TBD.
 - 📫 How to reach me ...
