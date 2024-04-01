@@ -1,4 +1,4 @@
-Greetings!
+**Greetings!**
 <br/> I'm Doyoung Lee and currently enrolled in university.
 <br/> I'm interested in game development (engine, gameplay etc).
 <!---
