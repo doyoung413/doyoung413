@@ -10,7 +10,8 @@
 ## Development
 <ul>
   <li> Mainly using c++
-  <li> SDL, OpenGL(GLFW,GLEW), Vulkan(Not Mainly)
+  <li> SDL, OpenGL(GLFW,GLEW)
+  <li> 2D/3D custom game engine
 </ul>
 
 ## Connects
