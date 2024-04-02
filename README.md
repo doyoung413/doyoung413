@@ -14,10 +14,10 @@
  <img src =https://github.com/doyoung413/doyoung413/assets/54879629/506ae3c7-c2a4-4c6e-9bb6-9fcf69c79e15, width = "9%" height = "9%">  
 <hr/>
 <ul>
-  <li> Mainly using C++ & Visual Studio 2022
+  <li> Mainly use C++ & Visual Studio 2022
   <li> Develop program that work on Windows & Linux (Ubuntu)
   <li> 2D/3D Custom Game Engine
-  <li> Using SDL, OpenGL(GLFW,GLEW), Raylib ETC...
+  <li> SDL, OpenGL(GLFW,GLEW), Raylib ETC...
 </ul>
 <hr/>
 
