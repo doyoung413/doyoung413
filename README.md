@@ -13,9 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,visualstudio,vscode)](https://skillicons.dev)
 
-![opengl](https://github.com/doyoung413/doyoung413/assets/54879629/b5da1e89-6d1e-47d1-b12b-2b4812fb1e21)
-![raylib](https://github.com/doyoung413/doyoung413/assets/54879629/2e1d94f8-c401-479e-bd3a-70bf4d5a7421)
-
 <ul>
   <li> Mainly using c++
   <li> SDL, OpenGL(GLFW,GLEW)
