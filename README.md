@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung413&layout=compact&theme=tokyonight)](https://github.com/doyoung413/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,visualstudio,vscode)](https://skillicons.dev)
-
+<img src = https://github.com/doyoung413/doyoung413/assets/54879629/44822228-f4f9-4a0c-9425-a84b5e91b834, width = "25%" height = "25%">
 <ul>
   <li> Mainly using c++
   <li> SDL, OpenGL(GLFW,GLEW)
