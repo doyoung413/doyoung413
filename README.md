@@ -7,17 +7,22 @@
 </ul>
 
 ## Languages & Frameworks
-[![doyoung413's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung413&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/doyoung413/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,c,cpp,visualstudio,vscode)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung413&layout=compact&theme=tokyonight)](https://github.com/doyoung413/github-readme-stats)
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,visualstudio,vscode)](https://skillicons.dev)
-<img src = https://github.com/doyoung413/doyoung413/assets/54879629/44822228-f4f9-4a0c-9425-a84b5e91b834, width = "25%" height = "25%">
+<img src = https://github.com/doyoung413/doyoung413/assets/54879629/6454e955-6d21-4090-8628-b27ee3afe777, width = "20%" height = "20%">   
+ <img src = https://github.com/doyoung413/doyoung413/assets/54879629/25781715-0415-42ba-9dff-e11ea0b52a1c, width = "15%" height = "15%">   
+ <img src =https://github.com/doyoung413/doyoung413/assets/54879629/506ae3c7-c2a4-4c6e-9bb6-9fcf69c79e15, width = "9%" height = "9%">  
+<hr/>
 <ul>
-  <li> Mainly using c++
-  <li> SDL, OpenGL(GLFW,GLEW)
-  <li> 2D/3D custom game engine
+  <li> Mainly using C++ & Visual Studio 2022
+  <li> Develop program that work on Windows & Linux (Ubuntu)
+  <li> 2D/3D Custom Game Engine
+  <li> Using SDL, OpenGL(GLFW,GLEW), Raylib ETC...
 </ul>
+<hr/>
+
+[![doyoung413's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung413&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/doyoung413/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung413&layout=compact&theme=tokyonight)](https://github.com/doyoung413/github-readme-stats)
 
 ## Connects
 <ul>
