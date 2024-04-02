@@ -9,9 +9,9 @@
 ## Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,c,cpp,visualstudio,vscode)](https://skillicons.dev)
 
-<img src = https://github.com/doyoung413/doyoung413/assets/54879629/6454e955-6d21-4090-8628-b27ee3afe777, width = "20%" height = "20%">   
- <img src = https://github.com/doyoung413/doyoung413/assets/54879629/25781715-0415-42ba-9dff-e11ea0b52a1c, width = "15%" height = "15%">   
- <img src =https://github.com/doyoung413/doyoung413/assets/54879629/506ae3c7-c2a4-4c6e-9bb6-9fcf69c79e15, width = "9%" height = "9%">  
+<img src = https://github.com/doyoung413/doyoung413/assets/54879629/6454e955-6d21-4090-8628-b27ee3afe777, width = "15%" height = "15%">   
+ <img src = https://github.com/doyoung413/doyoung413/assets/54879629/25781715-0415-42ba-9dff-e11ea0b52a1c, width = "12%" height = "12%">   
+ <img src =https://github.com/doyoung413/doyoung413/assets/54879629/506ae3c7-c2a4-4c6e-9bb6-9fcf69c79e15, width = "6%" height = "6%">  
 <hr/>
 <ul>
   <li> Mainly use C++ & Visual Studio 2022
