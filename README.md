@@ -1,6 +1,11 @@
-**Greetings! I'm Doyoung Lee**
 
-## Introduction
+<h1 align="center">
+<img src = https://github.com/doyoung413/doyoung413/assets/54879629/334befd2-38d5-4b08-a218-b85629155028>
+ Greetings! I'm Doyoung Lee
+<img src = https://github.com/doyoung413/doyoung413/assets/54879629/7a2aa67a-0e45-4ce9-8b8a-dcaaea67b4b0>
+</h1>
+
+## Introduction 
 <ul>
   <li> I'm currently enrolling in university in South Korea.
   <li> I'm interested in game development (engine, gameplay etc).
@@ -28,6 +33,13 @@
 <ul>
   <li>doyoung413@gmail.com</li>
 </ul>
+
+## 
+<h1 align="center">
+  <img src = https://github.com/doyoung413/doyoung413/assets/54879629/9d5e2b39-d5a6-4446-adfa-a06e249b2550>
+
+  Thanks for your visit!
+</h1>
 <!---
 doyoung413/doyoung413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
