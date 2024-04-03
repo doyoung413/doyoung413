@@ -38,7 +38,7 @@
 <h1 align="center">
   <img src = https://github.com/doyoung413/doyoung413/assets/54879629/9d5e2b39-d5a6-4446-adfa-a06e249b2550>
 
-  Thanks for your visit!
+  Thank for your visit!
 </h1>
 <!---
 doyoung413/doyoung413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
