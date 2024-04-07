@@ -22,7 +22,7 @@
 <hr/>
 <ul>
   <li> Mainly use C++ & Visual Studio 2022
-  <li> Develop program that work on Windows & Linux (Ubuntu)
+  <li> Program that work on Windows & Linux
   <li> 2D/3D Custom Game Engine
   <li> SDL, OpenGL(GLFW,GLEW), Raylib ETC...
 </ul>
