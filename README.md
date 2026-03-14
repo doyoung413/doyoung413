@@ -3,6 +3,7 @@
 **Aspiring Game Client / Engine Programmer** **게임 클라이언트 / 엔진 프로그래머 (지망)**
 
 I build and optimize systems with C++ and graphics APIs, focusing on performance, stability, and tooling. I prefer understanding and building core systems directly (memory, rendering pipeline) rather than relying only on commercial engine abstractions.
+
 (저는 C++와 그래픽스 API를 활용하여 시스템을 구축하고 최적화하는 데 관심이 많은 개발자입니다. 상용 엔진의 추상화에만 의존하기보다는, 성능과 안정성을 고려하며 핵심 시스템(메모리 관리, 렌더링 파이프라인 등)을 직접 이해하고 만들어가는 과정을 선호합니다.)
 
 ---
@@ -32,15 +33,19 @@ I build and optimize systems with C++ and graphics APIs, focusing on performance
 
 ### Engine / Graphics / Libraries
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
+![GLSL](https://img.shields.io/badge/GLSL-44CC11?style=for-the-badge)
+![SDL](https://img.shields.io/badge/SDL-16437E?style=for-the-badge)
+![FMOD](https://img.shields.io/badge/FMOD-20232A?style=for-the-badge)
+![ImGui](https://img.shields.io/badge/ImGui-000000?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-- **GLSL**, **SDL**
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
 ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-- **ImGui**, **FMOD**
 
 ---
 
