@@ -68,8 +68,6 @@ I build and optimize systems with C++ and graphics APIs, focusing on performance
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/도영-이-77004a25b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31efb112a6b380679968d60a4bdb194c)
 
-- **GitHub:** [doyoung413](https://github.com/doyoung413)
-
 <!-- ## 
 <h1 align="center">
   <img src = https://github.com/doyoung413/doyoung413/assets/54879629/9d5e2b39-d5a6-4446-adfa-a06e249b2550>
