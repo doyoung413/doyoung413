@@ -16,7 +16,7 @@ I build and optimize systems with C++ and graphics APIs, focusing on performance
 ## Interests
 
 - **Game Client Programming** (게임 클라이언트 프로그래밍)
-- **Game Engine Architecture** - Component-based design (게임 엔진 아키텍처 - 컴포넌트 기반 설계)
+- **Game Engine Architecture** (게임 엔진 아키텍처)
 - **Graphics Programming** - OpenGL, GLSL (그래픽스 프로그래밍)
 - **Performance & Stability** - Memory management, safe lifetime handling (성능 및 안정성 최적화)
 - **Tool Development** - Debug UI, Editors (툴 개발)
